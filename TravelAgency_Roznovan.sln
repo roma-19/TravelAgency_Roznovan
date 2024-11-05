@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency_Roznovan", "TravelAgency_Roznovan\TravelAgency_Roznovan.csproj", "{B2F98114-607B-49CD-A004-AC3AA08D7416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.DAL", "TravelAgency.DAL\TravelAgency.DAL.csproj", "{FF67BC5D-9231-405F-B84A-F6561E727CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.Domain", "TravelAgency.Domain\TravelAgency.Domain.csproj", "{E1E54D98-517A-4516-BC17-97A07F968856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.Services", "TravelAgency.Services\TravelAgency.Services.csproj", "{BC0A3F6A-77AE-40F7-B7A4-B5C4399B5350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F98114-607B-49CD-A004-AC3AA08D7416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F98114-607B-49CD-A004-AC3AA08D7416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F98114-607B-49CD-A004-AC3AA08D7416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F98114-607B-49CD-A004-AC3AA08D7416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF67BC5D-9231-405F-B84A-F6561E727CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF67BC5D-9231-405F-B84A-F6561E727CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF67BC5D-9231-405F-B84A-F6561E727CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF67BC5D-9231-405F-B84A-F6561E727CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1E54D98-517A-4516-BC17-97A07F968856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E54D98-517A-4516-BC17-97A07F968856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E54D98-517A-4516-BC17-97A07F968856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E54D98-517A-4516-BC17-97A07F968856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0A3F6A-77AE-40F7-B7A4-B5C4399B5350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0A3F6A-77AE-40F7-B7A4-B5C4399B5350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0A3F6A-77AE-40F7-B7A4-B5C4399B5350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0A3F6A-77AE-40F7-B7A4-B5C4399B5350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

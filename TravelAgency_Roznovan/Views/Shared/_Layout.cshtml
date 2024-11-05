@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"] - TravelAgency_Roznovan</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="~/css/shared.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="~/TravelAgency_Roznovan.styles.css" asp-append-version="true"/>
+</head>
+<body>
+<div id="header-top">
+    <div class="logo">Мир путешествий</div>
+    <div class = "button-header">
+        <button class = "button">Войти</button>
+    </div>
+</div>
+<img class = "img-header" src = "~/images/Designer.jpg"  alt=""/>
+<div id="header-bottom">
+    <div class="menu">
+        <ul>
+            <li><a href = "#home">Главная</a></li>
+            <li><a href = "#contact">Контакты</a></li>
+            <li><a href = "#countries">Страны</a></li>
+            <li><a href = "#services">Услуги</a></li>
+        </ul>
+    </div>
+</div>
+<div class="container">
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+</div>
+<script src = "~/js/shared_script.js"></script>
+</body>
+</html>
