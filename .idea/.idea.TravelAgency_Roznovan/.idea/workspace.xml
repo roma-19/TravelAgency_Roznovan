@@ -10,94 +10,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="196d8147-9bda-48f3-9e5b-a40119cecee0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelAgency_Roznovan/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelAgency_Roznovan/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelAgency_Roznovan/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelAgency_Roznovan/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/config/applicationhost.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency.DAL/Class1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency.DAL/TravelAgency.DAL.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency.Domain/Class1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency.Domain/TravelAgency.Domain.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency.Services/Class1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency.Services/TravelAgency.Services.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/Controllers/HomeController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/Models/ErrorViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/TravelAgency_Roznovan.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/Views/Home/SiteInformation.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/Views/Shared/Error.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/Views/Shared/_Layout.cshtml.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/Views/_ViewImports.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/Views/_ViewStart.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/css/shared.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/images/Designer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/js/shared_script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/images/card_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/images/card_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/images/card_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/images/card_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/images/card_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/images/card_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/images/icon_address.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/images/icon_email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/images/icon_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/js/home_script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TravelAgency_Roznovan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TravelAgency_Roznovan/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelAgency_Roznovan/TravelAgency_Roznovan.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/TravelAgency_Roznovan.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelAgency_Roznovan/Views/Home/SiteInformation.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/Views/Home/SiteInformation.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelAgency_Roznovan/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/css/shared.css" beforeDir="false" afterPath="$PROJECT_DIR$/TravelAgency_Roznovan/wwwroot/css/shared.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,9 +46,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;roma-19&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/roma-19/TravelAgency_Roznovan.git&quot;,
+    &quot;accountId&quot;: &quot;cdb92976-98af-4a6d-8c32-760f24a4a52a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2oQAxjJq5BNEeSrlgAve7aiIGFF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -129,20 +69,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.TravelAgency_Roznovan: IIS Express.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.TravelAgency_Roznovan: IIS Express.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.TravelAgency_Roznovan: IIS Express">
     <configuration name="TravelAgency_Roznovan: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/TravelAgency_Roznovan/TravelAgency_Roznovan.csproj" />
@@ -198,7 +138,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730791677148</updated>
-      <workItem from="1730791680372" duration="6989000" />
+      <workItem from="1730791680372" duration="10005000" />
+      <workItem from="1730823540625" duration="12253000" />
+      <workItem from="1730848820298" duration="156000" />
+      <workItem from="1730849518353" duration="17000" />
+      <workItem from="1730849663646" duration="778000" />
+      <workItem from="1730876244339" duration="11271000" />
+      <workItem from="1731096050705" duration="7138000" />
     </task>
     <servers />
   </component>

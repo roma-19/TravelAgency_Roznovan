@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>@ViewData["Title"] - TravelAgency_Roznovan</title>
+    <title>@ViewData["Title"]</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="~/css/shared.css" asp-append-version="true"/>
     <link rel="stylesheet" href="~/TravelAgency_Roznovan.styles.css" asp-append-version="true"/>
@@ -19,10 +19,10 @@
 <div id="header-bottom">
     <div class="menu">
         <ul>
-            <li><a href = "#home">Главная</a></li>
-            <li><a href = "#contact">Контакты</a></li>
-            <li><a href = "#countries">Страны</a></li>
-            <li><a href = "#services">Услуги</a></li>
+            <li><a class = "menu_a" href = "#home" style="color: black;">Главная</a></li>
+            <li><a class = "menu_a" href = "#contact" style="color: black;">Контакты</a></li>
+            <li><a class = "menu_a" href = "#countries" style="color: black;">Страны</a></li>
+            <li><a class = "menu_a" href = "#services" style="color: black;">Отзывы</a></li>
         </ul>
     </div>
 </div>
@@ -31,6 +31,6 @@
         @RenderBody()
     </main>
 </div>
-<script src = "~/js/shared_script.js"></script>
+<script src = "~/js/shared_script.js" asp-append-version="true"></script>
 </body>
 </html>
